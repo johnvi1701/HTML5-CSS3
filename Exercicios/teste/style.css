@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+h1 {
+    background-color: aquamarine;
+    text-align: right;
+}
+h1#principal{
+    background-color: blue;
+    text-align: center;
+}
+.destaque {
+    background-color: brown;
+}
+p {
+    text-align: justify;
+    color: aquamarine;
+}
